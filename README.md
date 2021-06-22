@@ -1,10 +1,10 @@
 # Twixl Publisher Entitlement Server SDK for .NET
 
-This package contains sample implementations of a custom Entitlements Server in ASP.NET Core 5.
+This package contains sample implementations of a custom Entitlements Server in ASP.NET Core 3.1.
 
 ## Requirements
 
-* [Microsoft .NET Core 5.0](https://dotnet.microsoft.com/download/dotnet/5.0)
+* [Microsoft .NET Core 5.0](https://dotnet.microsoft.com/download/dotnet/3.1)
 
 ## Examples
 
