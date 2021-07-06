@@ -4,7 +4,7 @@ This package contains sample implementations of a custom Entitlements Server in 
 
 ## Requirements
 
-* [Microsoft .NET Core 5.0](https://dotnet.microsoft.com/download/dotnet/3.1)
+* [Microsoft .NET Core 3.1](https://dotnet.microsoft.com/download/dotnet/3.1)
 
 ## Examples
 
